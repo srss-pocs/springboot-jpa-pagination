@@ -13,3 +13,5 @@ http://localhost:8080/api/products
 }
 
 GET API : http://localhost:8080/api/products/pagination/0/10 [Page No=0 and Records Per Page=10]
+
+Check the last attribute in the response
